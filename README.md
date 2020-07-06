@@ -3,6 +3,4 @@
 
 #### paragraph#1
 
-###### paragraph2
-
-######## paragraph3
+###### paragraph#2
